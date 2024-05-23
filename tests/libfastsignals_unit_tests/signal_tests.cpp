@@ -1,5 +1,5 @@
 #include "catch2/catch.hpp"
-#include "libfastsignals/include/signal.h"
+#include "libfastsignals/signal.h"
 #include <string>
 
 using namespace is::signals;

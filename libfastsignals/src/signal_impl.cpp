@@ -1,4 +1,5 @@
-#include "../include/signal_impl.h"
+#include "libfastsignals/signal_impl.h"
+
 #include <algorithm>
 #include <mutex>
 
